@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BlazorWasm.BackEnd",
+    "\\BlazorWasm.BackEnd\\Migrations",
+    "\\BlazorWasm.FrontEnd",
+    "\\BlazorWasm.FrontEnd\\Pages",
+    "\\BlazorWasm.FrontEnd\\Pages\\Cadastros",
+    "\\BlazorWasm.FrontEnd\\Pages\\TrabalhotutorialBlazor"
+  ],
+  "SelectedNode": "\\BlazorWasm.BackEnd\\Migrations\\20221027010815_Initial.cs",
+  "PreviewInSolutionExplorer": false
+}
